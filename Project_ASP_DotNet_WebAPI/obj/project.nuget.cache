@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "L9/p/P6/CUc=",
+  "success": true,
+  "projectFilePath": "D:\\Guilherme Greco Mendes\\C#\\Solution_ASP_DotNet\\Project_ASP_DotNet_WebAPI\\Project_ASP_DotNet_WebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Guilherme\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.6\\microsoft.aspnetcore.openapi.9.0.6.nupkg.sha512",
+    "C:\\Users\\Guilherme\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
