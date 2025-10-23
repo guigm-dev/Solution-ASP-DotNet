@@ -1,0 +1,1166 @@
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\appsettings.Development.json
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\appsettings.json
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\Project_ASP.Net_MVC.staticwebassets.runtime.json
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\Project_ASP.Net_MVC.staticwebassets.endpoints.json
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\app.db
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\Project_ASP.Net_MVC.exe
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\Project_ASP.Net_MVC.deps.json
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\Project_ASP.Net_MVC.runtimeconfig.json
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\Project_ASP.Net_MVC.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\Project_ASP.Net_MVC.pdb
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\Humanizer.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\System.CodeDom.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\Project_ASP.Net_MVC.csproj.AssemblyReference.cache
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\Project_ASP.Net_MVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\Project_ASP.Net_MVC.AssemblyInfoInputs.cache
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\Project_ASP.Net_MVC.AssemblyInfo.cs
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\Project_ASP.Net_MVC.csproj.CoreCompileInputs.cache
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\Project_ASP.Net_MVC.MvcApplicationPartsAssemblyInfo.cs
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\Project_ASP.Net_MVC.MvcApplicationPartsAssemblyInfo.cache
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\Project_ASP.Net_MVC.RazorAssemblyInfo.cache
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\Project_ASP.Net_MVC.RazorAssemblyInfo.cs
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\scopedcss\bundle\Project_ASP.Net_MVC.styles.css
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\scopedcss\projectbundle\Project_ASP.Net_MVC.bundle.scp.css
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\ofa40bqe71-b9sayid5wm.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\j9swiz3yzq-90yqlj465b.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\vltxs1u3vm-xtxxf3hu2r.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\14ipv7q33s-bqjiyaj88i.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\rh65p086id-c2jlpeoesf.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\eb27mqwgz2-erw9l3u2r3.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\9glsckmvxo-aexeepp0ev.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\hh8ihyobdx-d7shbmvgxk.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\bww8ud00yd-ausgxo2sd3.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\edcrak57d7-k8d9w2qqmf.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\sf8kf2lula-cosvhxvwiu.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\3tzsqhslk9-ub07r2b239.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\oxk5o6czdw-fvhpjtyr6v.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\k8b25g0zwc-b7pk76d08c.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\8axix7wldr-fsbi9cje9m.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\d5z9sfpxbi-rzd6atqjts.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\u8428c4e9i-ee0r1s7dh0.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\tg53r17ghy-dxx9fxp4il.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\nlrl0f3xs3-jd9uben2k1.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\1fc4q00scq-khv3u5hwcm.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\8xykfy6qmd-r4e9w2rdcm.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\vsrbd71spn-lcd1t2u6c8.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\cynp17w084-c2oey78nd0.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\7o8oyvng68-tdbxkamptv.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\h9vwtoirpy-j5mq2jizvt.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\o5k23vqhrk-06098lyss8.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\iznc766avz-nvvlpmu67g.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\ns4583i71s-s35ty4nyc5.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\47012z8l2l-pj5nd1wqec.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\4vzefxwp2m-46ein0sx1k.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\bh4v3mdph9-v0zj4ognzu.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\l186vlgaag-37tfw0ft22.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\rsc7qacj1u-hrwsygsryq.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\z408qb6q7a-pk9g2wxc8p.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\qfr28sqcy1-ft3s53vfgj.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\0k1i85ntyh-6cfz1n2cew.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\xa379ftczi-6pdc2jztkx.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\lr5hmrr0j7-493y06b0oq.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\ivy2s9gwh5-iovd86k7lj.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\higufxz8op-vr1egmr9el.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\s3tglgz8hr-kbrnm935zg.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\vw9sls9bhj-jj8uyg4cgr.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\ym8tkpcl2i-y7v9cxd14o.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\zzna4nrm5w-notf2xhcfb.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\igscs4x0yk-h1s4sie4z3.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\zap00c0tb5-63fj8s7r0e.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\pogzkicjpz-0j3bgjxly4.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\j3hwsq15kh-47otxtyo56.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\q3naettu8c-4v8eqarkd7.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\ldxy2n3w6q-356vix0kms.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\ypthv7q62w-83jwlth58m.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\t6e3b82hrf-mrlpezrjn3.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\uocis9wxbx-lzl9nlhx6b.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\2tikzqlmtu-ag7o75518u.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\9muusbdg0a-x0q3zqp4vz.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\tpsq5dibur-0i3buxo5is.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\t0qo7o574p-o1o13a6vjx.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\b9lhb08218-ttgo8qnofa.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\a3ygkwa5zy-2z0ns9nrw6.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\nezrqnk58p-muycvpuwrr.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\v0zgfp0y55-87fc7y1x7t.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\yfc7ypekbg-mlv21k5csn.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\sb5zagc9fx-b9sayid5wm.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\iwm7bv34gu-61n19gt1b8.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\ecc8xcaeic-xtxxf3hu2r.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\4yvuqqqgm8-bqjiyaj88i.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\3gskl58wiq-c2jlpeoesf.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\v0r0ymtk9i-erw9l3u2r3.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\v4i1qqkuif-aexeepp0ev.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\rtc9fxs0jf-d7shbmvgxk.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\a737ogbf27-ausgxo2sd3.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\7uzgacx9cu-k8d9w2qqmf.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\9a6o6seu1j-cosvhxvwiu.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\eftves2snc-ub07r2b239.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\mfkhq7b3pv-fvhpjtyr6v.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\y353s26nbv-b7pk76d08c.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\8d3rl1fpm0-fsbi9cje9m.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\9e8udiiwkp-rzd6atqjts.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\ad6xvrr9jk-ee0r1s7dh0.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\kxgtfxfvs1-dxx9fxp4il.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\yys56tmdpg-jd9uben2k1.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\ihm8eq3c8k-khv3u5hwcm.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\y65aqgtuns-r4e9w2rdcm.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\klu1gc7rb0-lcd1t2u6c8.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\m30amc9zzz-c2oey78nd0.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\728o7aj2fm-tdbxkamptv.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\bb10gtdofe-j5mq2jizvt.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\v8piypodia-06098lyss8.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\jw3h0lkqp9-nvvlpmu67g.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\530sfstn20-s35ty4nyc5.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\j9mrc0tl92-pj5nd1wqec.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\isvk0l3lve-46ein0sx1k.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\zewfczeln2-v0zj4ognzu.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\bvbl5ou2te-37tfw0ft22.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\72chkn9nr7-hrwsygsryq.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\80ihhdlt82-pk9g2wxc8p.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\mm1pg0d6vj-ft3s53vfgj.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\6azms2kl1r-6cfz1n2cew.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\jd86optk6e-6pdc2jztkx.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\dauvyzdwcr-493y06b0oq.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\z8h3kcn5lj-iovd86k7lj.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\oru81nf497-vr1egmr9el.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\okcayebbvb-kbrnm935zg.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\onogz9aekd-jj8uyg4cgr.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\srcwhr44lv-y7v9cxd14o.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\6m21wl1yuv-notf2xhcfb.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\5f6hh18med-h1s4sie4z3.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\43zxkvg3h8-63fj8s7r0e.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\0x0sbe6kwt-0j3bgjxly4.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\lcm0nwul74-47otxtyo56.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\2ig3dvnvdg-4v8eqarkd7.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\z0vkvxgg0z-356vix0kms.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\lrzf2h3swd-83jwlth58m.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\g40w2qp7jc-mrlpezrjn3.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\hghfxgx7h6-lzl9nlhx6b.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\ttcp4sdz6n-ag7o75518u.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\sfw4ut4ull-x0q3zqp4vz.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\d1y6171bss-0i3buxo5is.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\bfm904vhix-o1o13a6vjx.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\s7xv19vw5c-ttgo8qnofa.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\4i4l2akgf4-2z0ns9nrw6.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\8rmzow17qj-muycvpuwrr.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\tdnuyji9ws-87fc7y1x7t.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\e8uxv7hqvh-mlv21k5csn.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\msnhzhylij-6uztnlki6x.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\compressed\t87zhzw19l-6uztnlki6x.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\staticwebassets.build.json
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\staticwebassets.development.json
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\Project_.8CCC155B.Up2Date
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\Project_ASP.Net_MVC.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\refint\Project_ASP.Net_MVC.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\Project_ASP.Net_MVC.pdb
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\Project_ASP.Net_MVC.genruntimeconfig.cache
+D:\Guilherme Greco Mendes\C#\Solution_ASP.Net\Project_ASP.Net_MVC\obj\Debug\net9.0\ref\Project_ASP.Net_MVC.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\Project_ASP_DotNet_MVC.csproj.AssemblyReference.cache
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\Project_ASP_DotNet_MVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\Project_ASP_DotNet_MVC.AssemblyInfoInputs.cache
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\Project_ASP_DotNet_MVC.AssemblyInfo.cs
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\Project_ASP_DotNet_MVC.csproj.CoreCompileInputs.cache
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\Project_ASP_DotNet_MVC.MvcApplicationPartsAssemblyInfo.cs
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\Project_ASP_DotNet_MVC.MvcApplicationPartsAssemblyInfo.cache
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\Project_ASP_DotNet_MVC.RazorAssemblyInfo.cache
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\Project_ASP_DotNet_MVC.RazorAssemblyInfo.cs
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\Project_ASP_DotNet_MVC.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\refint\Project_ASP_DotNet_MVC.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\Project_ASP_DotNet_MVC.pdb
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\appsettings.Development.json
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\appsettings.json
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\app.db
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Project_ASP_DotNet_MVC.staticwebassets.runtime.json
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Project_ASP_DotNet_MVC.staticwebassets.endpoints.json
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Project_ASP_DotNet_MVC.exe
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Project_ASP_DotNet_MVC.deps.json
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Project_ASP_DotNet_MVC.runtimeconfig.json
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Project_ASP_DotNet_MVC.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Project_ASP_DotNet_MVC.pdb
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Azure.Core.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Azure.Identity.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Humanizer.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.Build.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\NuGet.Common.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\NuGet.Configuration.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\NuGet.Frameworks.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\NuGet.LibraryModel.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\NuGet.Packaging.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\NuGet.ProjectModel.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\NuGet.Protocol.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\NuGet.Versioning.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\System.ClientModel.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\System.CodeDom.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\System.Formats.Asn1.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\System.Memory.Data.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\System.Text.Json.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\af\Humanizer.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\ar\Humanizer.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\az\Humanizer.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\bg\Humanizer.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\cs\Humanizer.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\da\Humanizer.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\de\Humanizer.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\el\Humanizer.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\es\Humanizer.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\fa\Humanizer.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\fr\Humanizer.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\he\Humanizer.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\hr\Humanizer.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\hu\Humanizer.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\hy\Humanizer.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\id\Humanizer.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\is\Humanizer.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\it\Humanizer.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\ja\Humanizer.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\ku\Humanizer.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\lv\Humanizer.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\mt\Humanizer.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\nb\Humanizer.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\nl\Humanizer.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\pl\Humanizer.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\pt\Humanizer.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\ro\Humanizer.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\ru\Humanizer.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\sk\Humanizer.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\sl\Humanizer.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\sr\Humanizer.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\sv\Humanizer.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\tr\Humanizer.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\uk\Humanizer.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\vi\Humanizer.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\scopedcss\bundle\Project_ASP_DotNet_MVC.styles.css
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\scopedcss\projectbundle\Project_ASP_DotNet_MVC.bundle.scp.css
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\ofa40bqe71-b9sayid5wm.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\j9swiz3yzq-90yqlj465b.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\vltxs1u3vm-xtxxf3hu2r.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\14ipv7q33s-bqjiyaj88i.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\rh65p086id-c2jlpeoesf.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\eb27mqwgz2-erw9l3u2r3.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\9glsckmvxo-aexeepp0ev.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\hh8ihyobdx-d7shbmvgxk.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\bww8ud00yd-ausgxo2sd3.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\edcrak57d7-k8d9w2qqmf.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\sf8kf2lula-cosvhxvwiu.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\3tzsqhslk9-ub07r2b239.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\oxk5o6czdw-fvhpjtyr6v.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\k8b25g0zwc-b7pk76d08c.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\8axix7wldr-fsbi9cje9m.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\d5z9sfpxbi-rzd6atqjts.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\u8428c4e9i-ee0r1s7dh0.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\tg53r17ghy-dxx9fxp4il.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\nlrl0f3xs3-jd9uben2k1.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\1fc4q00scq-khv3u5hwcm.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\8xykfy6qmd-r4e9w2rdcm.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\vsrbd71spn-lcd1t2u6c8.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\cynp17w084-c2oey78nd0.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\7o8oyvng68-tdbxkamptv.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\h9vwtoirpy-j5mq2jizvt.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\o5k23vqhrk-06098lyss8.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\iznc766avz-nvvlpmu67g.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\ns4583i71s-s35ty4nyc5.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\47012z8l2l-pj5nd1wqec.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\4vzefxwp2m-46ein0sx1k.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\bh4v3mdph9-v0zj4ognzu.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\l186vlgaag-37tfw0ft22.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\rsc7qacj1u-hrwsygsryq.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\z408qb6q7a-pk9g2wxc8p.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\qfr28sqcy1-ft3s53vfgj.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\0k1i85ntyh-6cfz1n2cew.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\xa379ftczi-6pdc2jztkx.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\lr5hmrr0j7-493y06b0oq.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\ivy2s9gwh5-iovd86k7lj.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\higufxz8op-vr1egmr9el.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\s3tglgz8hr-kbrnm935zg.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\vw9sls9bhj-jj8uyg4cgr.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\ym8tkpcl2i-y7v9cxd14o.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\zzna4nrm5w-notf2xhcfb.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\igscs4x0yk-h1s4sie4z3.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\zap00c0tb5-63fj8s7r0e.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\pogzkicjpz-0j3bgjxly4.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\j3hwsq15kh-47otxtyo56.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\q3naettu8c-4v8eqarkd7.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\ldxy2n3w6q-356vix0kms.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\ypthv7q62w-83jwlth58m.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\t6e3b82hrf-mrlpezrjn3.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\uocis9wxbx-lzl9nlhx6b.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\2tikzqlmtu-ag7o75518u.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\9muusbdg0a-x0q3zqp4vz.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\tpsq5dibur-0i3buxo5is.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\t0qo7o574p-o1o13a6vjx.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\b9lhb08218-ttgo8qnofa.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\a3ygkwa5zy-2z0ns9nrw6.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\nezrqnk58p-muycvpuwrr.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\v0zgfp0y55-87fc7y1x7t.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\yfc7ypekbg-mlv21k5csn.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\6i8abi0t29-b9sayid5wm.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\5i3eomjeps-61n19gt1b8.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\3wammjf8vb-xtxxf3hu2r.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\18ocdsatls-bqjiyaj88i.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\xhv3rm40l1-c2jlpeoesf.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\kccmuc1ul8-erw9l3u2r3.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\uec9bat16v-aexeepp0ev.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\6saxxvvbv9-d7shbmvgxk.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\efcc6ypxu8-ausgxo2sd3.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\ts8ys1yzuo-k8d9w2qqmf.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\wrvy4eohfl-cosvhxvwiu.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\5k1xle03wv-ub07r2b239.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\ov1iei909t-fvhpjtyr6v.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\gqv3o0eds2-b7pk76d08c.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\gepdef7u0e-fsbi9cje9m.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\khcuca4yk7-rzd6atqjts.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\vbkddpz2lc-ee0r1s7dh0.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\yf438ke7it-dxx9fxp4il.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\giog9ab2ea-jd9uben2k1.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\83w43npg0t-khv3u5hwcm.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\8fer09cmk6-r4e9w2rdcm.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\iy6a7auta8-lcd1t2u6c8.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\kb90j74wil-c2oey78nd0.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\etdfs3k5nl-tdbxkamptv.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\meb1btljsc-j5mq2jizvt.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\os47wne3c5-06098lyss8.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\viig7ib5r5-nvvlpmu67g.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\icsq9plupc-s35ty4nyc5.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\dgc06myejo-pj5nd1wqec.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\eft0e64rwk-46ein0sx1k.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\6rwozeq54t-v0zj4ognzu.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\b80k9qqwxk-37tfw0ft22.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\69cdjy6tl5-hrwsygsryq.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\0di9pvtikt-pk9g2wxc8p.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\rs9v5vurbh-ft3s53vfgj.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\yin03j94mm-6cfz1n2cew.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\ickpiwexn4-6pdc2jztkx.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\xxb6erkmgt-493y06b0oq.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\0p07ac0drh-iovd86k7lj.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\24nbbp8erz-vr1egmr9el.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\9y92ktjnc8-kbrnm935zg.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\90no55twbj-jj8uyg4cgr.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\fuufl2kac4-y7v9cxd14o.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\3flpdpyaqx-notf2xhcfb.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\7zm6h6y874-h1s4sie4z3.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\sffqycww19-63fj8s7r0e.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\6qoysb4a5t-0j3bgjxly4.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\m3kdp220o0-47otxtyo56.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\w0e3h2ikch-4v8eqarkd7.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\49afffrdgv-356vix0kms.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\d388dz8goc-83jwlth58m.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\an5go0m33z-mrlpezrjn3.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\zk8zgnw6c1-lzl9nlhx6b.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\ihfiugesfm-ag7o75518u.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\lgfv525ri8-x0q3zqp4vz.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\87j5xhg2ij-0i3buxo5is.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\8xrny0wy2e-o1o13a6vjx.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\mo5ihwweod-ttgo8qnofa.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\9n2gcq6p34-2z0ns9nrw6.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\d6bvipr9fi-muycvpuwrr.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\5vp35qx3jo-87fc7y1x7t.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\hypdw56gju-mlv21k5csn.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\staticwebassets.build.json
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\staticwebassets.development.json
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\Project_.5466C0B4.Up2Date
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\Project_ASP_DotNet_MVC.genruntimeconfig.cache
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\ref\Project_ASP_DotNet_MVC.dll
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\lymm95u4sx-cnr5glpavp.gz
+D:\Guilherme Greco Mendes\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\ow5g4r4arc-cnr5glpavp.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\appsettings.json
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Project_ASP_DotNet_MVC.staticwebassets.endpoints.json
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\app.db
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Project_ASP_DotNet_MVC.staticwebassets.runtime.json
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Project_ASP_DotNet_MVC.exe
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Project_ASP_DotNet_MVC.deps.json
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Project_ASP_DotNet_MVC.runtimeconfig.json
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Project_ASP_DotNet_MVC.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Project_ASP_DotNet_MVC.pdb
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Humanizer.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.Build.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\NuGet.Common.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\NuGet.Configuration.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\NuGet.Frameworks.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\NuGet.LibraryModel.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\NuGet.Packaging.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\NuGet.ProjectModel.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\NuGet.Protocol.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\NuGet.Versioning.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\af\Humanizer.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\ar\Humanizer.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\az\Humanizer.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\bg\Humanizer.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\cs\Humanizer.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\da\Humanizer.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\de\Humanizer.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\el\Humanizer.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\es\Humanizer.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\fa\Humanizer.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\fr\Humanizer.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\he\Humanizer.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\hr\Humanizer.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\hu\Humanizer.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\hy\Humanizer.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\id\Humanizer.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\is\Humanizer.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\it\Humanizer.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\ja\Humanizer.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\ku\Humanizer.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\lv\Humanizer.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\mt\Humanizer.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\nb\Humanizer.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\nl\Humanizer.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\pl\Humanizer.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\pt\Humanizer.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\ro\Humanizer.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\ru\Humanizer.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\sk\Humanizer.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\sl\Humanizer.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\sr\Humanizer.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\sv\Humanizer.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\tr\Humanizer.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\uk\Humanizer.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\vi\Humanizer.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\Project_ASP_DotNet_MVC.csproj.AssemblyReference.cache
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\Project_ASP_DotNet_MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\Project_ASP_DotNet_MVC.AssemblyInfoInputs.cache
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\Project_ASP_DotNet_MVC.AssemblyInfo.cs
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\Project_ASP_DotNet_MVC.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\Project_ASP_DotNet_MVC.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\Project_ASP_DotNet_MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\Project_ASP_DotNet_MVC.RazorAssemblyInfo.cache
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\Project_ASP_DotNet_MVC.RazorAssemblyInfo.cs
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\scopedcss\bundle\Project_ASP_DotNet_MVC.styles.css
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\scopedcss\projectbundle\Project_ASP_DotNet_MVC.bundle.scp.css
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\ofa40bqe71-b9sayid5wm.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\j9swiz3yzq-90yqlj465b.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\vltxs1u3vm-xtxxf3hu2r.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\14ipv7q33s-bqjiyaj88i.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\rh65p086id-c2jlpeoesf.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\eb27mqwgz2-erw9l3u2r3.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\9glsckmvxo-aexeepp0ev.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\hh8ihyobdx-d7shbmvgxk.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\bww8ud00yd-ausgxo2sd3.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\edcrak57d7-k8d9w2qqmf.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\sf8kf2lula-cosvhxvwiu.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\3tzsqhslk9-ub07r2b239.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\oxk5o6czdw-fvhpjtyr6v.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\k8b25g0zwc-b7pk76d08c.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\8axix7wldr-fsbi9cje9m.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\d5z9sfpxbi-rzd6atqjts.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\u8428c4e9i-ee0r1s7dh0.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\tg53r17ghy-dxx9fxp4il.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\nlrl0f3xs3-jd9uben2k1.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\1fc4q00scq-khv3u5hwcm.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\8xykfy6qmd-r4e9w2rdcm.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\vsrbd71spn-lcd1t2u6c8.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\cynp17w084-c2oey78nd0.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\7o8oyvng68-tdbxkamptv.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\h9vwtoirpy-j5mq2jizvt.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\o5k23vqhrk-06098lyss8.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\iznc766avz-nvvlpmu67g.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\ns4583i71s-s35ty4nyc5.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\47012z8l2l-pj5nd1wqec.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\4vzefxwp2m-46ein0sx1k.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\bh4v3mdph9-v0zj4ognzu.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\l186vlgaag-37tfw0ft22.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\rsc7qacj1u-hrwsygsryq.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\z408qb6q7a-pk9g2wxc8p.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\qfr28sqcy1-ft3s53vfgj.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\0k1i85ntyh-6cfz1n2cew.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\xa379ftczi-6pdc2jztkx.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\lr5hmrr0j7-493y06b0oq.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\ivy2s9gwh5-iovd86k7lj.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\higufxz8op-vr1egmr9el.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\s3tglgz8hr-kbrnm935zg.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\vw9sls9bhj-jj8uyg4cgr.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\ym8tkpcl2i-y7v9cxd14o.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\zzna4nrm5w-notf2xhcfb.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\igscs4x0yk-h1s4sie4z3.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\zap00c0tb5-63fj8s7r0e.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\pogzkicjpz-0j3bgjxly4.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\j3hwsq15kh-47otxtyo56.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\q3naettu8c-4v8eqarkd7.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\ldxy2n3w6q-356vix0kms.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\ypthv7q62w-83jwlth58m.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\t6e3b82hrf-mrlpezrjn3.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\uocis9wxbx-lzl9nlhx6b.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\2tikzqlmtu-ag7o75518u.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\9muusbdg0a-x0q3zqp4vz.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\tpsq5dibur-0i3buxo5is.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\t0qo7o574p-o1o13a6vjx.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\b9lhb08218-ttgo8qnofa.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\a3ygkwa5zy-2z0ns9nrw6.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\nezrqnk58p-muycvpuwrr.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\v0zgfp0y55-87fc7y1x7t.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\yfc7ypekbg-mlv21k5csn.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\6i8abi0t29-b9sayid5wm.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\5i3eomjeps-61n19gt1b8.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\3wammjf8vb-xtxxf3hu2r.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\18ocdsatls-bqjiyaj88i.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\xhv3rm40l1-c2jlpeoesf.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\kccmuc1ul8-erw9l3u2r3.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\uec9bat16v-aexeepp0ev.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\6saxxvvbv9-d7shbmvgxk.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\efcc6ypxu8-ausgxo2sd3.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\ts8ys1yzuo-k8d9w2qqmf.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\wrvy4eohfl-cosvhxvwiu.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\5k1xle03wv-ub07r2b239.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\ov1iei909t-fvhpjtyr6v.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\gqv3o0eds2-b7pk76d08c.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\gepdef7u0e-fsbi9cje9m.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\khcuca4yk7-rzd6atqjts.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\vbkddpz2lc-ee0r1s7dh0.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\yf438ke7it-dxx9fxp4il.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\giog9ab2ea-jd9uben2k1.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\83w43npg0t-khv3u5hwcm.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\8fer09cmk6-r4e9w2rdcm.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\iy6a7auta8-lcd1t2u6c8.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\kb90j74wil-c2oey78nd0.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\etdfs3k5nl-tdbxkamptv.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\meb1btljsc-j5mq2jizvt.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\os47wne3c5-06098lyss8.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\viig7ib5r5-nvvlpmu67g.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\icsq9plupc-s35ty4nyc5.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\dgc06myejo-pj5nd1wqec.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\eft0e64rwk-46ein0sx1k.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\6rwozeq54t-v0zj4ognzu.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\b80k9qqwxk-37tfw0ft22.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\69cdjy6tl5-hrwsygsryq.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\0di9pvtikt-pk9g2wxc8p.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\rs9v5vurbh-ft3s53vfgj.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\yin03j94mm-6cfz1n2cew.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\ickpiwexn4-6pdc2jztkx.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\xxb6erkmgt-493y06b0oq.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\0p07ac0drh-iovd86k7lj.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\24nbbp8erz-vr1egmr9el.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\9y92ktjnc8-kbrnm935zg.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\90no55twbj-jj8uyg4cgr.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\fuufl2kac4-y7v9cxd14o.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\3flpdpyaqx-notf2xhcfb.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\7zm6h6y874-h1s4sie4z3.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\sffqycww19-63fj8s7r0e.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\6qoysb4a5t-0j3bgjxly4.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\m3kdp220o0-47otxtyo56.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\w0e3h2ikch-4v8eqarkd7.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\49afffrdgv-356vix0kms.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\d388dz8goc-83jwlth58m.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\an5go0m33z-mrlpezrjn3.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\zk8zgnw6c1-lzl9nlhx6b.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\ihfiugesfm-ag7o75518u.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\lgfv525ri8-x0q3zqp4vz.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\87j5xhg2ij-0i3buxo5is.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\8xrny0wy2e-o1o13a6vjx.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\mo5ihwweod-ttgo8qnofa.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\9n2gcq6p34-2z0ns9nrw6.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\d6bvipr9fi-muycvpuwrr.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\5vp35qx3jo-87fc7y1x7t.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\hypdw56gju-mlv21k5csn.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\lymm95u4sx-cnr5glpavp.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\compressed\ow5g4r4arc-cnr5glpavp.gz
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\Project_.5466C0B4.Up2Date
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\Project_ASP_DotNet_MVC.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\refint\Project_ASP_DotNet_MVC.dll
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\Project_ASP_DotNet_MVC.pdb
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\Project_ASP_DotNet_MVC.genruntimeconfig.cache
+C:\Users\Guilherme\Documents\C#\Solution_ASP_DotNet\Project_ASP_DotNet_MVC\obj\Debug\net9.0\ref\Project_ASP_DotNet_MVC.dll
